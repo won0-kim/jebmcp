@@ -1,0 +1,9 @@
+{
+    "mcpServers": {
+      "jeb": {
+        "command": "python",
+        "args":
+  ["C:/Users/won0/Desktop/jeb-pro-5.37.0.202602111657-KiwanKo-1059114712286911075/mcp_server/jeb_mcp_server.py"]
+      }
+    }
+  }
